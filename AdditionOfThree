@@ -1,0 +1,11 @@
+public class AdditionOfThree
+{
+    public static void main(String[] args)
+    {
+        int a = 10;
+        int b = 100;
+        int c = 30;
+        int result = a + b + c;
+        System.out.println("Addition:" + result);
+    }
+}
