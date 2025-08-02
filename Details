@@ -1,0 +1,16 @@
+public class Details
+{
+    public static void main(String[] args)
+    {
+        String name = "Archana";
+        String email = "gubbaarchana8@gmail.com";
+        int age = 20;
+        int phonenumber= 1235678999;
+        char surname = 'G';
+        System.out.println("Name: " + name);
+        System.out.println("Email: " + email);
+        System.out.println("Age: " + age);
+        System.out.println("Phone Number: " + phonenumber);
+        System.out.println("Surname Initial: " + surname);
+    }
+}
